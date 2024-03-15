@@ -16,6 +16,7 @@
 		3F3A26662BA4B93F0051C218 /* SaveMyDefaultsAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3A26652BA4B93F0051C218 /* SaveMyDefaultsAppTests.swift */; };
 		3F3A26702BA4B93F0051C218 /* SaveMyDefaultsAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3A266F2BA4B93F0051C218 /* SaveMyDefaultsAppUITests.swift */; };
 		3F3A26722BA4B93F0051C218 /* SaveMyDefaultsAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3A26712BA4B93F0051C218 /* SaveMyDefaultsAppUITestsLaunchTests.swift */; };
+		3F3A267F2BA4BEA20051C218 /* electric-guitar-1458806_640 copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F3A267E2BA4BEA20051C218 /* electric-guitar-1458806_640 copy.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3F3A266B2BA4B93F0051C218 /* SaveMyDefaultsAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SaveMyDefaultsAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F3A266F2BA4B93F0051C218 /* SaveMyDefaultsAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveMyDefaultsAppUITests.swift; sourceTree = "<group>"; };
 		3F3A26712BA4B93F0051C218 /* SaveMyDefaultsAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveMyDefaultsAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F3A267E2BA4BEA20051C218 /* electric-guitar-1458806_640 copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "electric-guitar-1458806_640 copy.jpg"; path = "../../../../Downloads/electric-guitar-1458806_640 copy.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				3F3A26522BA4B93D0051C218 /* ViewController.swift */,
 				3F3A26542BA4B93D0051C218 /* Main.storyboard */,
 				3F3A26572BA4B93F0051C218 /* Assets.xcassets */,
+				3F3A267E2BA4BEA20051C218 /* electric-guitar-1458806_640 copy.jpg */,
 				3F3A26592BA4B93F0051C218 /* LaunchScreen.storyboard */,
 				3F3A265C2BA4B93F0051C218 /* Info.plist */,
 			);
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F3A267F2BA4BEA20051C218 /* electric-guitar-1458806_640 copy.jpg in Resources */,
 				3F3A26582BA4B93F0051C218 /* Assets.xcassets in Resources */,
 				3F3A265B2BA4B93F0051C218 /* Base in Resources */,
 				3F3A26562BA4B93D0051C218 /* Base in Resources */,
